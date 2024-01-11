@@ -29,3 +29,14 @@ const myFunction = function(){
 }
 
 console.log(typeof bigNumber);
+
+
+// ***************** Memory **************
+
+// Stack, Heap
+
+// Stack use in Primitive DataType
+    // When Datatype use stack memory stack give a copy of memory
+// Stack use in Non-Primitive DataType
+    // When Datatype use heap memory give a reference of vlue original value
+    
